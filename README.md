@@ -28,4 +28,5 @@ CREATE TABLE employee_salary_detail (emp_idno int primary key not null,
                                           basic_salary decimal(7,2));
 ```
 After creating the table, it is described as follow:
+
 ![Screenshot (95)](https://user-images.githubusercontent.com/100774000/222060063-42b851af-ece9-4da6-a3fc-6b3ce5954f9d.png)
